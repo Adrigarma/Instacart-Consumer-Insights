@@ -21,7 +21,7 @@ The goal of this project was to perform an initial exploratory data analysis to 
 The datasets used for this analysis contain information about Instacart orders, products, departments and customers.
 
 **Primary Dataset:**					
-_“The Instacart Online Grocery Shopping Dataset 2017”_, accessed via [Kaggle](www.instacart.com/datasets/grocery-shopping-2017) on [date].
+_“The Instacart Online Grocery Shopping Dataset 2017”_, accessed via [Kaggle](www.instacart.com/datasets/grocery-shopping-2017).
 
 _Note: This dataset must be downloaded manually due to file size. It is not included in this repository._										
 
